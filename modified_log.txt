@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@Anilale 
-akram2407
-/
-sample_log1
-Public
-Fork your own copy of akram2407/sample_log1
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-sample_log1/modified_log.txt
-@akram2407
-akram2407 Add files via upload
-Latest commit 9ae97bc 1 hour ago
- History
- 1 contributor
-9610 lines (6674 sloc)  408 KB
-
 Display host
 
 Hostname is Hiwi7210-BCCC-local
@@ -9637,18 +9608,3 @@ AirGroup- MDNS Feature
 Status
 ------
 None
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-sample_log1/modified_log.txt at main · akram2407/sample_log1

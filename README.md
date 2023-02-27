@@ -1,1 +1,0 @@
-# Samplelog2
